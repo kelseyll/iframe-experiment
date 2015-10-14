@@ -1,0 +1,129 @@
+* {
+	margin: 0;
+}
+body {
+	background-color: black
+}
+.container {
+	min-height: 100vh
+}
+
+.input-container {
+	z-index: 99;
+	width: 100%;
+}
+.input-container form {
+	display: block;
+	position: absolute;
+	bottom: 0;
+	padding: 0 0 50px 50px;
+}
+.input-container form input {
+    border-style: none;
+    border-radius: 2px;
+    font-size: 100px;
+    background-color: transparent;
+    color: white;
+    display: block;
+    line-height: 100px;
+	font-family: helvetica;
+	font-weight: bolder;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+.input-container form input:focus {
+	outline:none;
+}
+::-webkit-input-placeholder {
+	color: rgba(255,255,255,.5);
+	font-family: helvetica;
+	font-weight: bolder;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+:-moz-placeholder {
+	color: rgba(255,255,255,.5);
+	font-family: helvetica;
+	font-weight: bolder;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+::-moz-placeholder {
+	color: rgba(255,255,255,.5);
+	font-family: helvetica;
+	font-weight: bolder;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+:-ms-input-placeholder {
+	color: rgba(255,255,255,.5);
+	font-family: helvetica;
+	font-weight: bolder;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px  transparent !important;
+    background-color: transparent !important
+}
+input {
+	display: inline-block;
+}
+
+i.zmdi {
+	color: rgba(255,255,255,.5);
+	font-size: 60px;
+	text-shadow:3px 3px rgba(0,0,0,.1);
+}
+.search i.zmdi {
+	display: none;
+}
+button {
+	cursor: pointer;
+	background-color: rgba(255,255,255,0);
+	border: 0;
+	color: #fff;
+	font-size: 30px;
+	position: relative;
+	z-index: 2;
+}
+
+button:focus {
+	outline: none;
+}
+
+.video-container {
+	height: 100vh;
+    width: 100%;
+	background-color: black;
+    position: absolute;
+    top: 0;
+}
+
+.video-iframe {
+	width: 100%;
+}
+
+.audio-iframe {
+	display: none;
+}
+
+h2 {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	color: #fff;
+}
+
+input {
+	position: relative;
+	z-index: 99;
+
+}
+
+.unmute {
+	display: none;
+}
+
+.mute, .unmute {
+	padding: 50px 50px 0 0;
+	text-align: center;
+	float: right;
+	top: 0;
+}
+

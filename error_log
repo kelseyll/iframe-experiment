@@ -1,0 +1,57 @@
+[11-Oct-2015 23:06:48 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home2/emusauce/public_html/twitter/index.php on line 25
+[11-Oct-2015 23:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/emusauce/public_html/twitter/index.php on line 14
+[11-Oct-2015 23:25:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/emusauce/public_html/twitter/index.php on line 42
+[11-Oct-2015 23:28:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/emusauce/public_html/twitter/index.php on line 35
+[12-Oct-2015 00:11:08 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:11:37 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:11:42 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:11:43 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:11:51 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:13:45 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:13:46 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:13:49 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:14:12 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:14:40 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:14:41 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:15:02 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:16:09 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:16:10 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 13
+[12-Oct-2015 00:17:29 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home2/emusauce/public_html/twitter/index.php on line 14
+[12-Oct-2015 00:19:41 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 10
+[12-Oct-2015 00:21:27 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to TwitterOAuth::__construct() must be of the type array, string given, called in /home2/emusauce/public_html/twitter/index.php on line 10 and defined in /home2/emusauce/public_html/twitter/TwitterAPIExchange.php on line 72
+[12-Oct-2015 00:25:44 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 10
+[12-Oct-2015 00:25:47 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home2/emusauce/public_html/twitter/index.php on line 10
+[12-Oct-2015 00:31:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/emusauce/public_html/twitter/index.php on line 24
+[12-Oct-2015 00:34:58 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::get() in /home2/emusauce/public_html/twitter/index.php on line 21
+[12-Oct-2015 00:38:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:39:32 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home2/emusauce/public_html/twitter/index.php on line 21
+[12-Oct-2015 00:39:38 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home2/emusauce/public_html/twitter/index.php on line 21
+[12-Oct-2015 00:39:41 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home2/emusauce/public_html/twitter/index.php on line 21
+[12-Oct-2015 00:40:02 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home2/emusauce/public_html/twitter/index.php on line 21
+[12-Oct-2015 00:42:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/emusauce/public_html/twitter/index.php on line 25
+[12-Oct-2015 00:46:03 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:46:03 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:46:03 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:46:03 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:46:03 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/emusauce/public_html/twitter/index.php on line 22
+[12-Oct-2015 00:46:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/emusauce/public_html/twitter/index.php on line 22
+[12-Oct-2015 00:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/emusauce/public_html/twitter/index.php on line 22
+[12-Oct-2015 00:47:53 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:47:53 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:47:53 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:47:53 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 00:47:53 America/Chicago] PHP Warning:  Illegal string offset 'text' in /home2/emusauce/public_html/twitter/index.php on line 23
+[12-Oct-2015 01:06:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/emusauce/public_html/twitter/index.php on line 22
+[12-Oct-2015 01:37:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$stringtwo' (T_VARIABLE) in /home2/emusauce/public_html/twitter/index.php on line 16
+[12-Oct-2015 01:37:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$stringtwo' (T_VARIABLE) in /home2/emusauce/public_html/twitter/index.php on line 16
+[12-Oct-2015 01:38:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$stringtwo' (T_VARIABLE) in /home2/emusauce/public_html/twitter/index.php on line 16
+[12-Oct-2015 01:40:31 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::setGetfieldone() in /home2/emusauce/public_html/twitter/index.php on line 14
+[12-Oct-2015 01:41:53 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::setGetfieldone() in /home2/emusauce/public_html/twitter/index.php on line 15
+[12-Oct-2015 01:41:55 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::setGetfieldone() in /home2/emusauce/public_html/twitter/index.php on line 15
+[12-Oct-2015 01:43:04 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::setGetfieldone() in /home2/emusauce/public_html/twitter/index.php on line 15
+[12-Oct-2015 01:43:09 America/Chicago] PHP Fatal error:  Call to undefined method TwitterAPIExchange::setGetfieldone() in /home2/emusauce/public_html/twitter/index.php on line 15
+[12-Oct-2015 17:57:45 America/Chicago] PHP Fatal error:  Function name must be a string in /home2/emusauce/public_html/twitter/index.php on line 38
+[12-Oct-2015 18:22:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/emusauce/public_html/twitter/index.php on line 51
+[12-Oct-2015 18:30:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/emusauce/public_html/twitter/index.php on line 119
+[13-Oct-2015 01:29:50 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/emusauce/public_html/kelseylegault.com/waitwhat/index.php on line 90
